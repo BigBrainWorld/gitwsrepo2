@@ -1,6 +1,6 @@
 ABCDEFG
 QRS
+WXY and Z
 HIJK
 LMNOP
-WXY and Z
 Now I know my ABC's
